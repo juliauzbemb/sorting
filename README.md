@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dmyp7qkr7pyp8din?svg=true)](https://ci.appveyor.com/project/juliauzbemb/sorting)
